@@ -1531,7 +1531,7 @@ form.signup button.btn {
   visibility: hidden;
 }
 lesshat-selector {
-  -lh-property: 0; } 
+  -lh-property: 0; }
 @-webkit-keyframes arrowBounce{ 0%{-webkit--webkit-transform:translateY(-20px);-moz--webkit-transform:translateY(-20px);-ms--webkit-transform:translateY(-20px);-webkit-transform:translateY(-20px)}50%{-webkit--webkit-transform:translateY(-10px);-moz--webkit-transform:translateY(-10px);-ms--webkit-transform:translateY(-10px);-webkit-transform:translateY(-10px)}100%{-webkit--webkit-transform:translateY(-20px);-moz--webkit-transform:translateY(-20px);-ms--webkit-transform:translateY(-20px);-webkit-transform:translateY(-20px)}}
 @-moz-keyframes arrowBounce{ 0%{-webkit--moz-transform:translateY(-20px);-moz--moz-transform:translateY(-20px);-ms--moz-transform:translateY(-20px);-moz-transform:translateY(-20px)}50%{-webkit--moz-transform:translateY(-10px);-moz--moz-transform:translateY(-10px);-ms--moz-transform:translateY(-10px);-moz-transform:translateY(-10px)}100%{-webkit--moz-transform:translateY(-20px);-moz--moz-transform:translateY(-20px);-ms--moz-transform:translateY(-20px);-moz-transform:translateY(-20px)}}
 @-o-keyframes arrowBounce{ 0%{-webkit--o-transform:translateY(-20px);-moz--o-transform:translateY(-20px);-ms--o-transform:translateY(-20px);-o-transform:translateY(-20px)}50%{-webkit--o-transform:translateY(-10px);-moz--o-transform:translateY(-10px);-ms--o-transform:translateY(-10px);-o-transform:translateY(-10px)}100%{-webkit--o-transform:translateY(-20px);-moz--o-transform:translateY(-20px);-ms--o-transform:translateY(-20px);-o-transform:translateY(-20px)}}
